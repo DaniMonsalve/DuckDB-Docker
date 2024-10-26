@@ -61,6 +61,7 @@ Illustrated methods for persisting data in DuckDB database format.
 Demonstrated automation techniques utilizing Python scripts for data processing tasks. (Execute main.py)
 
 Need to install requirements first:
+
 <img width="572" alt="requirements" src="https://github.com/user-attachments/assets/37cb885a-b201-4bbe-b203-6427a7e96c30">
 
 python output:
